@@ -1,0 +1,19 @@
+highcharts (4.0.1bb50.2) zorpos5.0; urgency=low
+
+  * removed balabit-build
+  * changed highcarts path on box
+
+ -- bbalazs <balazs.benedek@balabit.com>  Tue, 01 Mar 2016 15:43:47 +0100
+
+highcharts (4.0.1bb50.1) zorpos4.0; urgency=low
+
+  * Fixed #2770 where data labels on error bars were not displayed.
+  * http://www.highcharts.com/documentation/changelog
+
+ -- amarci <amarci@balabit.hu>  Thu, 16 Jun 2014 18:37:27 +0200
+
+highcharts (3.0.9-1) zorpos4.0; urgency=low
+
+  * Initial release.
+
+ -- bbalazs <bbalazs@balabit.hu>  Wed, 28 May 2014 14:02:34 +0200

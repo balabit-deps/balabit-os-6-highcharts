@@ -1,0 +1,12 @@
+# Please fill commented parts and delete this line
+Source: highcharts
+Maintainer: bbalazs <bbalazs@balabit.hu>
+Priority: extra
+Section: web
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.0.9
+Homepage: http://www.highcharts.com/
+
+Package: highcharts
+Architecture: all
+Description: # Description of package
