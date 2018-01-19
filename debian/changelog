@@ -1,3 +1,9 @@
+highcharts (6.0.4-1) balabit-os-6.0; urgency=low
+
+  * imported highcharts v6.0.4
+
+ -- bbalazs <balazs.benedek@balabit.com>  Fri, 19 Jan 2018 08:56:23 +0100
+
 highcharts (4.0.1bb50.2) zorpos5.0; urgency=low
 
   * removed balabit-build
