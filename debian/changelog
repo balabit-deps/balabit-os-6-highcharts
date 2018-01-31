@@ -1,3 +1,9 @@
+highcharts (6.0.4-2) balabit-os-6.0; urgency=low
+
+  * install highcharts.css
+
+ -- bbalazs <balazs.benedek@balabit.com>  Wed, 31 Jan 2018 13:41:08 +0100
+
 highcharts (6.0.4-1) balabit-os-6.0; urgency=low
 
   * imported highcharts v6.0.4
