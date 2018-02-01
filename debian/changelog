@@ -1,3 +1,9 @@
+highcharts (6.0.5-2) balabit-os-6.0; urgency=low
+
+  * modified install file
+
+ -- bbalazs <balazs.benedek@balabit.com>  Thu, 01 Feb 2018 13:58:49 +0100
+
 highcharts (6.0.5-1) balabit-os-6.0; urgency=low
 
   * imported highcharts v6.0.5
